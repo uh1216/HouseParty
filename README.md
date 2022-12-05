@@ -41,7 +41,7 @@
 
 |비밀번호 찾기|회원가입|
 |---|---|
-|![비밀번호 찾기.png](./Front/img/비밀번호 찾기.png)|![회원가입.png](./Front/img/회원가입.png)|
+|![비밀번호 찾기.png](./Front/img/비밀번호_찾기.png)|![회원가입.png](./Front/img/회원가입.png)|
 
 
 
